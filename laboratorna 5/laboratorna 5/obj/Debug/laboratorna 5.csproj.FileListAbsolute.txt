@@ -1,0 +1,11 @@
+E:\VS 2курс\laboratorna 5\laboratorna 5\obj\Debug\laboratorna 5.csproj.AssemblyReference.cache
+E:\VS 2курс\laboratorna 5\laboratorna 5\obj\Debug\laboratorna_5.fHouse.resources
+E:\VS 2курс\laboratorna 5\laboratorna 5\obj\Debug\laboratorna_5.fMain.resources
+E:\VS 2курс\laboratorna 5\laboratorna 5\obj\Debug\laboratorna_5.Properties.Resources.resources
+E:\VS 2курс\laboratorna 5\laboratorna 5\obj\Debug\laboratorna 5.csproj.GenerateResource.cache
+E:\VS 2курс\laboratorna 5\laboratorna 5\obj\Debug\laboratorna 5.csproj.CoreCompileInputs.cache
+E:\VS 2курс\laboratorna 5\laboratorna 5\bin\Debug\laboratorna 5.exe.config
+E:\VS 2курс\laboratorna 5\laboratorna 5\bin\Debug\laboratorna 5.exe
+E:\VS 2курс\laboratorna 5\laboratorna 5\bin\Debug\laboratorna 5.pdb
+E:\VS 2курс\laboratorna 5\laboratorna 5\obj\Debug\laboratorna 5.exe
+E:\VS 2курс\laboratorna 5\laboratorna 5\obj\Debug\laboratorna 5.pdb
